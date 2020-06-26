@@ -13,7 +13,6 @@ ${data.badges}
 - Tests
 - Questions
   - ${data.gh_email}
-  - ${data.gh_email}
 ## Description
 ${data.description}
 ## Installation
